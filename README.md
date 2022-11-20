@@ -1,2 +1,2 @@
-# sharify_memoire
-Projet de Memoire de type Real Estate
+# westec
+Real Estate web app made with php
